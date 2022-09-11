@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 
+
+#### Programs for Haiku OS
 
 <!--
 **uberjoker/uberjoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on getting started with simple programs for Haiku OS. The first 'trial' program I am working on is sysmon - a simple system monitor utiity for the command line, which eventually may become something like conky.
