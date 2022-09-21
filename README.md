@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on getting started with simple programs for Haiku OS. The first 'trial' program I am working on is sysmon - a simple system monitor utiity for the command line, which eventually may become something like conky.
+I'm currently trying to get working on getting started with simple programs for Haiku OS. The first 'trial' program I am working on is sysmon - a simple system monitor utiity for the command line, which eventually may become something like conky.
+
+In paralle, I am also trying to work on an app to organise photos - a desktop app. 
